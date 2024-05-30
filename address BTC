@@ -1,3 +1,6 @@
+Full Example: Creating a Bitcoin Wallet
+Here’s the complete code for creating a Bitcoin wallet using pywallet:
+
 pip install pywallet
 from pywallet import wallet
 
