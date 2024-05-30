@@ -1,4 +1,10 @@
 # BTC-address
+
+Introduction
+Creating a cryptocurrency wallet using pywallet involves generating a seed phrase (mnemonic), deriving a master key from the seed, and then deriving individual keys for each cryptocurrency address. Here's a comprehensive guide with code examples using pywallet to create a Bitcoin (BTC) wallet:
+
+Welcome all 
+
 e wallet BTC en versión python 
 Introducción
 Crear una billetera de criptomonedas pywalletimplica generar una frase inicial (mnemotécnica), derivar una clave maestra a partir de la semilla y luego derivar claves individuales para cada dirección de criptomoneda. Aquí hay una guía completa con ejemplos de código que se utilizan pywalletpara crear una billetera Bitcoin (BTC):
